@@ -27,6 +27,9 @@ This project is a simple calculator implemented using HTML, CSS, and JavaScript.
 - **script.js:** Implements the calculator logic and functionality.
 
 ## Screenshots
+![image](https://github.com/Ojus999/Calculator/assets/113508437/d1e6defb-7149-4e43-8c9d-8e4aea798ec6)
+![image](https://github.com/Ojus999/Calculator/assets/113508437/d71b413b-cf8c-4019-a841-750f02e6f254)
+
 
 
 ## Future Enhancements
