@@ -27,7 +27,7 @@ This project is a simple calculator implemented using HTML, CSS, and JavaScript.
 - **script.js:** Implements the calculator logic and functionality.
 
 ## Screenshots
-![Calculator Screenshot](placeholder_link)
+
 
 ## Future Enhancements
 - **Memory Functionality:** Add support for memory functions like memory recall, memory clear, etc.
@@ -42,6 +42,6 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 This project is licensed under the MIT License.
 
 ## Live Deployment
-[Live Demo](https://example.com)
+[Live Demo]([https://example.com](https://ojus999.github.io/Calculator/))
 
 Enjoy calculating with the Calculator!
