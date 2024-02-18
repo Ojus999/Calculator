@@ -42,6 +42,6 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 This project is licensed under the MIT License.
 
 ## Live Deployment
-[Live Demo]([https://example.com](https://ojus999.github.io/Calculator/))
+[Live Demo](https://ojus999.github.io/Calculator/)
 
 Enjoy calculating with the Calculator!
